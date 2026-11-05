@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Archivos de configuración privada con credenciales
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs locales del agente
+*.log
+
+# Directorios de PyCharm o IDEs
+.idea/
+.vscode/
