@@ -9,6 +9,7 @@ Define:
 4. El Nodo 'Coordinador' (analiza la expresión y llama a las tools).
 5. El Nodo 'Herramientas' (ToolNode que ejecuta las funciones de tools.py).
 6. El Checkpointer (MemorySaver) para darle persistencia local y estado a las conversaciones.
+
 """
 
 import os
